@@ -1,0 +1,14 @@
+{
+  "versao": 1,
+  "proximoId": 9,
+  "localizacoes": [
+    {"id": 1, "latitude": -23.550520, "longitude": -46.633308, "precisao": 5.2, "instante": "2026-11-02T13:00:00.000Z"},
+    {"id": 2, "latitude": -23.550360, "longitude": -46.633188, "precisao": 4.8, "instante": "2026-11-02T13:00:20.000Z"},
+    {"id": 3, "latitude": -23.550200, "longitude": -46.633068, "precisao": 6.1, "instante": "2026-11-02T13:00:40.000Z"},
+    {"id": 4, "latitude": -23.550040, "longitude": -46.632948, "precisao": 3.9, "instante": "2026-11-02T13:01:00.000Z"},
+    {"id": 5, "latitude": -23.549880, "longitude": -46.632828, "precisao": 4.5, "instante": "2026-11-02T13:01:20.000Z"},
+    {"id": 6, "latitude": -23.549720, "longitude": -46.632708, "precisao": 5.0, "instante": "2026-11-02T13:01:40.000Z"},
+    {"id": 7, "latitude": -23.549560, "longitude": -46.632588, "precisao": 4.2, "instante": "2026-11-02T13:02:00.000Z"},
+    {"id": 8, "latitude": -23.549400, "longitude": -46.632468, "precisao": 3.8, "instante": "2026-11-02T13:02:20.000Z"}
+  ]
+}
